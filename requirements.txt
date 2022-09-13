@@ -19,3 +19,4 @@ cryptography
 wget
 psutil
 configparser
+dload
